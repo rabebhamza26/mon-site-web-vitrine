@@ -12,3 +12,6 @@
   - Carte de localisation intégrée (Google Maps)
   - Coordonnées complètes (adresse, téléphone, email)
 - **Responsive design** compatible avec tous les appareils
+
+
+<img width="355" height="141" alt="image" src="https://github.com/user-attachments/assets/7a17c575-b588-4946-885e-961c30e0f533" />
